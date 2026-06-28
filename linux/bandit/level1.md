@@ -1,4 +1,4 @@
-# Bandit Level 1
+# Bandit Level 0>1
 
 ## Goal
 Find the password in a file called readme
